@@ -3,9 +3,9 @@
     --cor-texto: hsl(0, 0%, 100%);
     --cor-principal: #a05cb1;
     --cor-secundaria: white;
-    --cor-hover:white;
+    --cor-hover:rgb(26, 143, 179);
     --cor-superficie: black;
-    --cor-card: white;
+    --cor-card: rgb(161, 62, 201);
     --cor-legenda: gray;
     --cor-clara: rgb(226, 220, 220);
     --cor-rodape: #994444;
