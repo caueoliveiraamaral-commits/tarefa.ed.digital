@@ -1,6 +1,6 @@
 :root{
     --cor-fundo: #e7e7de;
-    --cor-texto: #000000;
+    --cor-texto: hsl(0, 0%, 100%);
     --cor-principal: #a05cb1;
     --cor-secundaria: white;
     --cor-hover:white;
