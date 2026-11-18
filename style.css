@@ -1,9 +1,9 @@
 :root{
     --cor-fundo: #6d2374;
-    --cor-texto: hsl(0, 0%, 7%);
+    --cor-texto: hsl(0, 0%, 100%);
     --cor-principal: #a05cb1;
-    --cor-secundaria: white;
-    --cor-hover:rgb(26, 143, 179);
+    --cor-secundaria: rgb(175, 19, 84);
+    --cor-hover:rgb(73, 12, 102);
     --cor-superficie: black;
     --cor-card: rgb(161, 62, 201);
     --cor-legenda: gray;
